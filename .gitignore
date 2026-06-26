@@ -1,0 +1,8 @@
+**/.DS_Store/
+**/__pycache__/
+_temp/
+wandb/
+pip.txt
+pip_test.txt
+test.py
+requirements.txt
